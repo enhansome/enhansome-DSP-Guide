@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nBack to the Top\nDigital Signal Processing (DSP) is the application of a digital computer to modify an analog or digital signal. It's wadely used in many applications including video/audio/data communications and networking, medical imaging and computer vision, speech synthesis and coding, digital audio and video, and control of complex systems and industrial processes.\nLearn Digital Signal Processing (DSP) | Udemy\nDigital Signal Processing (DSP) From Ground Up™ in C | Udemy\nDigital Signal Processing Courses | Coursera\nDSP - Digital Signal Processing - Intel® FPGA\nDigital Signal Processing | Stanford Online\nDigital Signal Processing | UC San Diego Extension\nDigital Signal Processing I Courses Online | Purdue\nDigital Signal Processing | MIT OpenCourseWare\nCreative Digital Signal Processing (DSP) for Music and Visuals\nDigital Signal Processing Course | Prosoundtraining",
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nDigital Signal Processing (DSP) is the application of a digital computer to modify an analog or digital signal. It's wadely used in many applications including video/audio/data communications and networking, medical imaging and computer vision, speech synthesis and coding, digital audio and video, and control of complex systems and industrial processes.\nLearn Digital Signal Processing (DSP) | Udemy\nDigital Signal Processing (DSP) From Ground Up™ in C | Udemy\nDigital Signal Processing Courses | Coursera\nDSP - Digital Signal Processing - Intel® FPGA\nDigital Signal Processing | Stanford Online\nDigital Signal Processing | UC San Diego Extension\nDigital Signal Processing I Courses Online | Purdue\nDigital Signal Processing | MIT OpenCourseWare\nCreative Digital Signal Processing (DSP) for Music and Visuals\nDigital Signal Processing Course | Prosoundtraining",
       "items": [
         {
           "node_type": "item",
@@ -245,10 +245,708 @@
         }
       ],
       "title": "A guide covering Digital Signal Processing(DSP) including the applications, libraries and tools that will make you a better and more efficient Digital Signal Processing(DSP) development."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LRSLibrary",
+              "description": "is a Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos. The library was designed for moving object detection in videos, but it can be also used for other computer vision and machine learning problems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26336532,
+                "language": "MATLAB",
+                "last_commit": "2025-11-22T15:13:28Z",
+                "owner": "andrewssobral",
+                "repo": "lrslibrary",
+                "stars": 886
+              }
+            }
+          ],
+          "description": "OpenCV is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nMicrosoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.\nScikit-Learn is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.\nAutomated Driving Toolbox™ is a MATLAB tool that provides algorithms and tools for designing, simulating, and testing ADAS and autonomous driving systems. You can design and test vision and lidar perception systems, as well as sensor fusion, path planning, and vehicle controllers. Visualization tools include a bird’s-eye-view plot and scope for sensor coverage, detections and tracks, and displays for video, lidar, and maps. The toolbox lets you import and work with HERE HD Live Map data and OpenDRIVE® road networks. It also provides reference application examples for common ADAS and automated driving features, including FCW, AEB, ACC, LKA, and parking valet. The toolbox supports C/C++ code generation for rapid prototyping and HIL testing, with support for sensor fusion, tracking, path planning, and vehicle controller algorithms.\nImage Processing Toolbox™ is a tool that provides a comprehensive set of reference-standard algorithms and workflow apps for image processing, analysis, visualization, and algorithm development. You can perform image segmentation, image enhancement, noise reduction, geometric transformations, image registration, and 3D image processing.\nComputer Vision Toolbox™ is a tool that provides algorithms, functions, and apps for designing and testing computer vision, 3D vision, and video processing systems. You can perform object detection and tracking, as well as feature detection, extraction, and matching. You can automate calibration workflows for single, stereo, and fisheye cameras. For 3D vision, the toolbox supports visual and point cloud SLAM, stereo vision, structure from motion, and point cloud processing.\nStatistics and Machine Learning Toolbox™ is a tool that provides functions and apps to describe, analyze, and model data. You can use descriptive statistics, visualizations, and clustering for exploratory data analysis; fit probability distributions to data; generate random numbers for Monte Carlo simulations, and perform hypothesis tests. Regression and classification algorithms let you draw inferences from data and build predictive models either interactively, using the Classification and Regression Learner apps, or programmatically, using AutoML.\nLidar Toolbox™ is a tool that provides algorithms, functions, and apps for designing, analyzing, and testing lidar processing systems. You can perform object detection and tracking, semantic segmentation, shape fitting, lidar registration, and obstacle detection. Lidar Toolbox supports lidar-camera cross calibration for workflows that combine computer vision and lidar processing.\nMapping Toolbox™ is a tool that provides algorithms and functions for transforming geographic data and creating map displays. You can visualize your data in a geographic context, build map displays from more than 60 map projections, and transform data from a variety of sources into a consistent geographic coordinate system.\nUAV Toolbox is an application that provides tools and reference applications for designing, simulating, testing, and deploying unmanned aerial vehicle (UAV) and drone applications. You can design autonomous flight algorithms, UAV missions, and flight controllers. The Flight Log Analyzer app lets you interactively analyze 3D flight paths, telemetry information, and sensor readings from common flight log formats.\nParallel Computing Toolbox™ is a tool that lets you solve computationally and data-intensive problems using multicore processors, GPUs, and computer clusters. High-level constructs such as parallel for-loops, special array types, and parallelized numerical algorithms enable you to parallelize MATLAB® applications without CUDA or MPI programming. The toolbox lets you use parallel-enabled functions in MATLAB and other toolboxes. You can use the toolbox with Simulink® to run multiple simulations of a model in parallel. Programs and models can run in both interactive and batch modes.\nPartial Differential Equation Toolbox™ is a tool that provides functions for solving structural mechanics, heat transfer, and general partial differential equations (PDEs) using finite element analysis.\nROS Toolbox is a tool that provides an interface connecting MATLAB® and Simulink® with the Robot Operating System (ROS and ROS 2), enabling you to create a network of ROS nodes. The toolbox includes MATLAB functions and Simulink blocks to import, analyze, and play back ROS data recorded in rosbag files. You can also connect to a live ROS network to access ROS messages.\nRobotics Toolbox™ provides a toolbox that brings robotics specific functionality(designing, simulating, and testing manipulators, mobile robots, and humanoid robots) to MATLAB, exploiting the native capabilities of MATLAB (linear algebra, portability, graphics). The toolbox also supports mobile robots with functions for robot motion models (bicycle), path planning algorithms (bug, distance transform, D*, PRM), kinodynamic planning (lattice, RRT), localization (EKF, particle filter), map building (EKF) and simultaneous localization and mapping (EKF), and a Simulink model a of non-holonomic vehicle. The Toolbox also including a detailed Simulink model for a quadrotor flying robot.\nDeep Learning Toolbox™ is a tool that provides a framework for designing and implementing deep neural networks with algorithms, pretrained models, and apps. You can use convolutional neural networks (ConvNets, CNNs) and long short-term memory (LSTM) networks to perform classification and regression on image, time-series, and text data. You can build network architectures such as generative adversarial networks (GANs) and Siamese networks using automatic differentiation, custom training loops, and shared weights. With the Deep Network Designer app, you can design, analyze, and train networks graphically. It can exchange models with TensorFlow™ and PyTorch through the ONNX format and import models from TensorFlow-Keras and Caffe. The toolbox supports transfer learning with DarkNet-53, ResNet-50, NASNet, SqueezeNet and many other pretrained models.\nReinforcement Learning Toolbox™ is a tool that provides an app, functions, and a Simulink® block for training policies using reinforcement learning algorithms, including DQN, PPO, SAC, and DDPG. You can use these policies to implement controllers and decision-making algorithms for complex applications such as resource allocation, robotics, and autonomous systems.\nDeep Learning HDL Toolbox™ is a tool that provides functions and tools to prototype and implement deep learning networks on FPGAs and SoCs. It provides pre-built bitstreams for running a variety of deep learning networks on supported Xilinx® and Intel® FPGA and SoC devices. Profiling and estimation tools let you customize a deep learning network by exploring design, performance, and resource utilization tradeoffs.\nModel Predictive Control Toolbox™ is a tool that provides functions, an app, and Simulink® blocks for designing and simulating controllers using linear and nonlinear model predictive control (MPC). The toolbox lets you specify plant and disturbance models, horizons, constraints, and weights. By running closed-loop simulations, you can evaluate controller performance.\nVision HDL Toolbox™ is a tool that provides pixel-streaming algorithms for the design and implementation of vision systems on FPGAs and ASICs. It provides a design framework that supports a diverse set of interface types, frame sizes, and frame rates. The image processing, video, and computer vision algorithms in the toolbox use an architecture appropriate for HDL implementations.\nMicrosoft AirSim is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports software-in-the-loop simulation with popular flight controllers such as PX4 & ArduPilot and hardware-in-loop with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.",
+          "node_type": "group",
+          "title": "Computer Vision Tools, Libraries, and Frameworks"
+        }
+      ],
+      "title": "Computer Vision Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MicMac",
+              "description": "is a free and open-source photogrammetry software tools for 3D reconstruction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74707998,
+                "language": "C++",
+                "last_commit": "2026-06-19T16:11:48Z",
+                "owner": "micmacIGN",
+                "repo": "micmac",
+                "stars": 918
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AliceVision",
+              "description": "is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms. AliceVision comes up with strong software basis and state-of-the-art computer vision algorithms that can be tested, analyzed and reused.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28635894,
+                "language": "C++",
+                "last_commit": "2026-08-21T14:57:21Z",
+                "owner": "alicevision",
+                "repo": "AliceVision",
+                "stars": 3486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meshroom",
+              "description": "is a free, open-source 3D Reconstruction Software based on the AliceVision framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34405381,
+                "language": "Python",
+                "last_commit": "2026-08-20T03:00:08Z",
+                "owner": "alicevision",
+                "repo": "Meshroom",
+                "stars": 12916
+              }
+            }
+          ],
+          "description": "Autodesk® ReCap™ is a software tool that converts reality captured from laser scans or photos into a 3D model or 2D drawing that's ready to be used in your design built for UAV and drone processes.\nAutodesk® ReCap™ Photo is a cloud-connected solution tailored for drone/UAV photo capturing workflows. Using ReCap Photo, you can create textured meshes, point clouds with geolocation, and high-resolution orthographic views with elevation maps.\nPix4D is a unique suite of photogrammetry software for drone mapping. Capture images with our app, process on desktop or cloud and create maps and 3D models.\nPIX4Dmapper is the leading photogrammetry software for professional drone mapping.\nRealityCapture is a state-of-the-art photogrammetry software solution that creates virtual reality scenes, textured 3D meshes, orthographic projections, geo-referenced maps and much more from images and/or laser scans completely automatically.\nAdobe Scantastic is a tool that makes the creation of 3D assets accessible to everyone. It can be used with just a mobile device (combined with Adobe's server-based photogrammetry pipeline), users can easily scan objects in their physical environment and turn them into 3D models which can then be imported into tools like Adobe Dimension and Adobe Aero.\nAdobe Aero is a tool that helps you build, view, and share immersive AR experiences. Simply build a scene by bringing in 2D images from Adobe Photoshop and Illustrator, or 3D models from Adobe Dimension, Substance, third-party apps like Cinema 4D, or asset libraries like Adobe Stock and TurboSquid. Aero optimizes a wide array of assets, including OBJ, GLB, and glTF files, for AR, so you can visualize them in real time.\nAgisoft Metashape is a stand-alone software product that performs photogrammetric processing of digital images and generates 3D spatial data to be used in GIS applications, cultural heritage documentation, and visual effects production as well as for indirect measurements of objects of various scales.\nMicroStation is a CAD software platform for 2D and 3D dimensional design and drafting, developed and sold by Bentley Systems. It generates 2D/3D vector graphics objects and elements and includes building information modeling (BIM) features.\nLeica Photogrammetry Suite (LPS) is a powerful photogrammetry system that delivers full analytical triangulation, the generation of digital terrain models, orthophoto production, mosaicking, and 3D feature extraction in a user-friendly environment that guarantees results even for photogrammetry novices.\nTerramodel is a powerful software package for the surveyor, civil engineer or contractor who requires a CAD and design package with integrated support for raw survey data.\n[3DF Zephyr] (https://www.3dflow.net/3df-zephyr-photogrammetry-software/) is a photogrammetry software solution by 3Dflow. It allows you automatically reconstruct 3D models from photos and deal with any 3D reconstruction and scanning challenge. No matter what camera sensor, drone or laser scanner device you are going to use.\nCOLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface. It offers a wide range of features for reconstruction of ordered and unordered image collections.\nMulti-View Environment (MVE) is an effort to ease the work with multi-view datasets and to support the development of algorithms based on multiple views. It features Structure from Motion, Multi-View Stereo and Surface Reconstruction. MVE is developed at the TU Darmstadt.\nPhotoModeler is a software extracts Measurements and Models from photographs taken with an ordinary camera. A cost-effective way for accurate 2D or 3D measurement, photo-digitizing, surveying, 3D scanning, and reality capture.\nODM is an open source command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.\nWebODM is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently ODM and MicMac.\nNodeODM is a standard API specification for processing aerial images with engines such as ODM. The API is used by clients such as WebODM, CloudODM and PyODM.\n[ClusterODM]https://www.opendronemap.org/clusterodm/) is a reverse proxy, load balancer and task tracker with optional cloud autoscaling capabilities for NodeODM API compatible nodes. In a nutshell, it's a program to link together multiple NodeODM API compatible nodes under a single network address.\nFIELDimageR is an R package to analyze orthomosaic images from agricultural field trials.\nRegard3D is a free and open source structure-from-motion program. It converts photos of an object, taken from different angles, into a 3D model of this object.",
+          "node_type": "group",
+          "title": "Photogrammetry Tools, Libraries, and Frameworks"
+        }
+      ],
+      "title": "Photogrammetry Development"
+    },
+    {
+      "description": "Machine Learning/Deep Learning Frameworks.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tensorflow_macOS",
+              "description": "is a Mac-optimized version of TensorFlow and TensorFlow Addons for macOS 11.0+ accelerated using Apple's ML Compute framework.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 310388988,
+                "language": "Shell",
+                "last_commit": "2021-10-31T08:36:56Z",
+                "owner": "apple",
+                "repo": "tensorflow_macos",
+                "stars": 3648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PlaidML",
+              "description": "is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 100326126,
+                "language": "C++",
+                "last_commit": "2023-07-23T20:16:29Z",
+                "owner": "plaidml",
+                "repo": "plaidml",
+                "stars": 4566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Caffe",
+              "description": "is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12791642,
+                "language": "C++",
+                "last_commit": "2024-07-31T23:10:28Z",
+                "owner": "BVLC",
+                "repo": "caffe",
+                "stars": 34559
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Theano",
+              "description": "is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2183193,
+                "language": "Python",
+                "last_commit": "2024-01-15T03:16:24Z",
+                "owner": "Theano",
+                "repo": "Theano",
+                "stars": 9998
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nGraph",
+              "description": "is an open source C++ library, compiler and runtime for Deep Learning. The nGraph Compiler aims to accelerate developing AI workloads using any deep learning framework and deploying to a variety of hardware targets.It provides the freedom, performance, and ease-of-use to AI developers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 98252973,
+                "language": "C++",
+                "last_commit": "2020-10-15T21:54:02Z",
+                "owner": "NervanaSystems",
+                "repo": "ngraph",
+                "stars": 1344
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache Spark Connector for SQL Server and Azure SQL",
+              "description": "is a high-performance connector that enables you to use transactional data in big data analytics and persists results for ad-hoc queries or reporting. The connector allows you to use any SQL database, on-premises or in the cloud, as an input data source or output data sink for Spark jobs.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 268925279,
+                "language": "Scala",
+                "last_commit": "2025-02-27T19:36:58Z",
+                "owner": "microsoft",
+                "repo": "sql-spark-connector",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cluster Manager for Apache Kafka(CMAK)",
+              "description": "is a tool for managing Apache Kafka clusters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29981861,
+                "language": "Scala",
+                "last_commit": "2023-08-02T19:26:23Z",
+                "owner": "yahoo",
+                "repo": "CMAK",
+                "stars": 11926
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tensorman",
+              "description": "is a utility for easy management of Tensorflow containers by developed by System76.Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202021804,
+                "language": "Rust",
+                "last_commit": "2025-10-27T18:21:52Z",
+                "owner": "pop-os",
+                "repo": "tensorman",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Numba",
+              "description": "is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3659275,
+                "language": "Python",
+                "last_commit": "2026-08-21T17:39:56Z",
+                "owner": "numba",
+                "repo": "numba",
+                "stars": 11126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cuML",
+              "description": "is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152616802,
+                "language": "Python",
+                "last_commit": "2026-08-22T15:05:11Z",
+                "owner": "NVIDIA",
+                "repo": "cuml",
+                "stars": 5260
+              }
+            }
+          ],
+          "description": "TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.\nKeras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.\nPyTorch is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Primarily developed by Facebook's AI Research lab.\nAmazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.\nAzure Databricks is a fast and collaborative Apache Spark-based big data analytics service designed for data science and data engineering. Azure Databricks, sets up your Apache Spark environment in minutes, autoscale, and collaborate on shared projects in an interactive workspace. Azure Databricks supports Python, Scala, R, Java, and SQL, as well as data science frameworks and libraries including TensorFlow, PyTorch, and scikit-learn.\nMicrosoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.\nApple CoreML is a framework that helps integrate machine learning models into your app. Core ML provides a unified representation for all models. Your app uses Core ML APIs and user data to make predictions, and to train or fine-tune models, all on the user's device. A model is the result of applying a machine learning algorithm to a set of training data. You use a model to make predictions based on new input data.\nApache OpenNLP is an open-source library for a machine learning based toolkit used in the processing of natural language text. It features an API for use cases like Named Entity Recognition, Sentence Detection, POS(Part-Of-Speech) tagging, Tokenization Feature extraction, Chunking, Parsing, and Coreference resolution.\nApache Airflow is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows. Install. Principles. Scalable. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.\nOpen Neural Network Exchange(ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard data types.\nApache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines. Support for Python, R, Julia, Scala, Go, Javascript and more.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nAnaconda is a very popular Data Science platform for machine learning and deep learning that enables users to develop models, train them, and deploy them.\nOpenCV is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nScikit-Learn is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.\nWeka is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.\nJupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Jupyter is used widely in industries that do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, data science, and machine learning.\nApache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.\nApache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.\nBigDL is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.\nEclipse Deeplearning4J (DL4J) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.\nChainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference.\nXGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.",
+          "node_type": "group",
+          "title": "ML Frameworks, Libraries, and Tools"
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "CUDA Toolkit. Source: NVIDIA Developer CUDA",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NVIDIA Container Toolkit",
+              "description": "is a collection of tools & libraries that allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 45557469,
+                "language": null,
+                "last_commit": "2023-12-06T09:16:49Z",
+                "owner": "NVIDIA",
+                "repo": "nvidia-docker",
+                "stars": 17591
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CUTLASS",
+              "description": "is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112542515,
+                "language": "C++",
+                "last_commit": "2026-08-20T10:37:54Z",
+                "owner": "NVIDIA",
+                "repo": "cutlass",
+                "stars": 10292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CUB",
+              "description": "is a cooperative primitives for CUDA C++ kernel authors.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 8225159,
+                "language": "Cuda",
+                "last_commit": "2023-10-09T17:44:21Z",
+                "owner": "NVIDIA",
+                "repo": "cub",
+                "stars": 1842
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tensorman",
+              "description": "is a utility for easy management of Tensorflow containers by developed by System76.Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202021804,
+                "language": "Rust",
+                "last_commit": "2025-10-27T18:21:52Z",
+                "owner": "pop-os",
+                "repo": "tensorman",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Numba",
+              "description": "is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3659275,
+                "language": "Python",
+                "last_commit": "2026-08-21T17:39:56Z",
+                "owner": "numba",
+                "repo": "numba",
+                "stars": 11126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cuML",
+              "description": "is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152616802,
+                "language": "Python",
+                "last_commit": "2026-08-22T15:05:11Z",
+                "owner": "NVIDIA",
+                "repo": "cuml",
+                "stars": 5260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Thrust",
+              "description": "is a C++ parallel programming library which resembles the C++ Standard Library. Thrust's high-level interface greatly enhances programmer productivity while enabling performance portability between GPUs and multicore CPUs.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3633213,
+                "language": "C++",
+                "last_commit": "2024-02-08T15:54:40Z",
+                "owner": "NVIDIA",
+                "repo": "thrust",
+                "stars": 5002
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kintinuous",
+              "description": "is a real-time dense visual SLAM system capable of producing high quality globally consistent point and mesh reconstructions over hundreds of metres in real-time with only a low-cost commodity RGB-D sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44748381,
+                "language": "C++",
+                "last_commit": "2022-08-26T16:45:24Z",
+                "owner": "mp3guy",
+                "repo": "Kintinuous",
+                "stars": 954
+              }
+            }
+          ],
+          "description": "CUDA Toolkit is a collection of tools & libraries that provide a development environment for creating high performance GPU-accelerated applications. The CUDA Toolkit allows you can develop, optimize, and deploy your applications on GPU-accelerated embedded systems, desktop workstations, enterprise data centers, cloud-based platforms and HPC supercomputers. The toolkit includes GPU-accelerated libraries, debugging and optimization tools, a C/C++ compiler, and a runtime library to build and deploy your application on major architectures including x86, Arm and POWER.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.\nCUDA-X HPC is a collection of libraries, tools, compilers and APIs that help developers solve the world's most challenging problems. CUDA-X HPC includes highly tuned kernels essential for high-performance computing (HPC).\nMinkowski Engine is an auto-differentiation library for sparse tensors. It supports all standard neural network layers such as convolution, pooling, unpooling, and broadcasting operations for sparse tensors.\nChainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference.\nCuPy is an implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it. It supports a subset of numpy.ndarray interface.\nCatBoost is a fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.\ncuDF is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. cuDF provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.\nArrayFire is a general-purpose library that simplifies the process of developing software that targets parallel and massively-parallel architectures including CPUs, GPUs, and other hardware acceleration devices.\nAresDB is a GPU-powered real-time analytics storage and query engine. It features low query latency, high data freshness and highly efficient in-memory and on disk storage management.\nArraymancer is a tensor (N-dimensional array) project in Nim. The main focus is providing a fast and ergonomic CPU, Cuda and OpenCL ndarray library on which to build a scientific computing ecosystem.\nGraphVite is a general graph embedding engine, dedicated to high-speed and large-scale embedding learning in various applications.",
+          "node_type": "group",
+          "title": "CUDA Tools Libraries, and Frameworks"
+        }
+      ],
+      "title": "CUDA Development"
+    },
+    {
+      "description": "RenderDoc is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.\nGPUVerify is a tool for formal analysis of GPU kernels written in OpenCL and CUDA. The tool can prove that kernels are free from certain types of defect, including data races.\nNVIDIA® Nsight™ Visual Studio Edition is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.\nRadeon™ GPU Profiler is a performance tool that can be used by developers to optimize DirectX®12, Vulkan® and OpenCL™ applications for AMD RDNA™ and GCN hardware.\nRadeon™ GPU Analyzer is a compiler and code analysis tool for Vulkan®, DirectX®, OpenGL® and OpenCL™.\nAMD Radeon ProRender is a powerful physically-based rendering engine that enables creative professionals to produce stunningly photorealistic images on virtually any GPU, any CPU, and any OS in over a dozen leading digital content creation and CAD applications.\nNVIDIA Omniverse is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.\nIntel® SDK For OpenCL™ Applications is an offload compute-intensive workloads. Customize heterogeneous compute applications and accelerate performance with kernel-based programming.\nNVIDIA NGC is a hub for GPU-optimized software for deep learning, machine learning, and high-performance computing (HPC) workloads.\nNVIDIA NGC Containers is a registry that provides researchers, data scientists, and developers with simple access to a comprehensive catalog of GPU-accelerated software for AI, machine learning and HPC. These containers take full advantage of NVIDIA GPUs on-premises and in the cloud.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCL ICD Loader",
+          "description": "is an Installable Client Driver (ICD) mechanism to allow developers to build applications against an Installable Client Driver loader (ICD loader) rather than linking their applications against a specific OpenCL implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45402911,
+            "language": "C",
+            "last_commit": "2026-08-18T19:53:27Z",
+            "owner": "KhronosGroup",
+            "repo": "OpenCL-ICD-Loader",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clBLAS",
+          "description": "is a software library containing BLAS functions written in OpenCL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12084767,
+            "language": "C++",
+            "last_commit": "2024-08-02T17:18:36Z",
+            "owner": "clMathLibraries",
+            "repo": "clBLAS",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clFFT",
+          "description": "is a software library containing FFT functions written in OpenCL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12084795,
+            "language": "C++",
+            "last_commit": "2022-10-05T14:15:49Z",
+            "owner": "clMathLibraries",
+            "repo": "clFFT",
+            "stars": 648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clSPARSE",
+          "description": "is a software library containing Sparse functions written in OpenCL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30902100,
+            "language": "C++",
+            "last_commit": "2020-02-21T16:41:58Z",
+            "owner": "clMathLibraries",
+            "repo": "clSPARSE",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clRNG",
+          "description": "is an OpenCL based software library containing random number generation functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32955437,
+            "language": "C",
+            "last_commit": "2021-11-19T23:44:55Z",
+            "owner": "clMathLibraries",
+            "repo": "clRNG",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLsmith",
+          "description": "is a tool that makes use of two existing testing techniques, Random Differential Testing and Equivalence Modulo Inputs (EMI), applying them in a many-core environment, OpenCL. Its primary feature is the generation of random OpenCL kernels, exercising many features of the language. It also brings a novel idea of applying EMI, via dead-code injection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15743638,
+            "language": "C++",
+            "last_commit": "2025-11-27T19:26:19Z",
+            "owner": "ChrisLidbury",
+            "repo": "CLSmith",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oclgrind",
+          "description": "is a virtual OpenCL device simulator, including an OpenCL runtime with ICD support. The goal is to provide a platform for creating tools to aid OpenCL development. In particular, this project currently implements utilities for debugging memory access errors, detecting data-races and barrier divergence, collecting instruction histograms, and for interactive OpenCL kernel debugging. The simulator is built on an interpreter for LLVM IR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13066604,
+            "language": "C++",
+            "last_commit": "2026-03-24T02:04:40Z",
+            "owner": "jrprice",
+            "repo": "Oclgrind",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NVIDIA Container Toolkit",
+          "description": "is a collection of tools & libraries that allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 45557469,
+            "language": null,
+            "last_commit": "2023-12-06T09:16:49Z",
+            "owner": "NVIDIA",
+            "repo": "nvidia-docker",
+            "stars": 17591
+          }
+        }
+      ],
+      "title": "OpenCL Tools, Libraries and Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MATLAB Schemer",
+              "description": "is a MATLAB package makes it easy to change the color scheme (theme) of the MATLAB display and GUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38539280,
+                "language": "MATLAB",
+                "last_commit": "2023-12-13T03:58:36Z",
+                "owner": "scottclowe",
+                "repo": "matlab-schemer",
+                "stars": 1257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LRSLibrary",
+              "description": "is a Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos. The library was designed for moving object detection in videos, but it can be also used for other computer vision and machine learning problems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26336532,
+                "language": "MATLAB",
+                "last_commit": "2025-11-22T15:13:28Z",
+                "owner": "andrewssobral",
+                "repo": "lrslibrary",
+                "stars": 886
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gramm",
+              "description": "is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47769110,
+                "language": "HTML",
+                "last_commit": "2026-06-25T13:30:02Z",
+                "owner": "piermorel",
+                "repo": "gramm",
+                "stars": 824
+              }
+            }
+          ],
+          "description": "MATLAB and Simulink Services & Applications List\nMATLAB in the Cloud is a service that allows you to run in cloud environments from MathWorks Cloud to Public Clouds including AWS and Azure.\nMATLAB Online™ is a service that allows to users to uilitize MATLAB and Simulink through a web browser such as Google Chrome.\nSimulink is a block diagram environment for Model-Based Design. It supports simulation, automatic code generation, and continuous testing of embedded systems.\nSimulink Online™ is a service that provides access to Simulink through your web browser.\nMATLAB Drive™ is a service that gives you the ability to store, access, and work with your files from anywhere.\nMATLAB Parallel Server™ is a tool that lets you scale MATLAB® programs and Simulink® simulations to clusters and clouds. You can prototype your programs and simulations on the desktop and then run them on clusters and clouds without recoding. MATLAB Parallel Server supports batch jobs, interactive parallel computations, and distributed computations with large matrices.\nImage Processing Toolbox™ is a tool that provides a comprehensive set of reference-standard algorithms and workflow apps for image processing, analysis, visualization, and algorithm development. You can perform image segmentation, image enhancement, noise reduction, geometric transformations, image registration, and 3D image processing.\nComputer Vision Toolbox™ is a tool that provides algorithms, functions, and apps for designing and testing computer vision, 3D vision, and video processing systems. You can perform object detection and tracking, as well as feature detection, extraction, and matching. You can automate calibration workflows for single, stereo, and fisheye cameras. For 3D vision, the toolbox supports visual and point cloud SLAM, stereo vision, structure from motion, and point cloud processing.\nStatistics and Machine Learning Toolbox™ is a tool that provides functions and apps to describe, analyze, and model data. You can use descriptive statistics, visualizations, and clustering for exploratory data analysis; fit probability distributions to data; generate random numbers for Monte Carlo simulations, and perform hypothesis tests. Regression and classification algorithms let you draw inferences from data and build predictive models either interactively, using the Classification and Regression Learner apps, or programmatically, using AutoML.\nLidar Toolbox™ is a tool that provides algorithms, functions, and apps for designing, analyzing, and testing lidar processing systems. You can perform object detection and tracking, semantic segmentation, shape fitting, lidar registration, and obstacle detection. Lidar Toolbox supports lidar-camera cross calibration for workflows that combine computer vision and lidar processing.\nMapping Toolbox™ is a tool that provides algorithms and functions for transforming geographic data and creating map displays. You can visualize your data in a geographic context, build map displays from more than 60 map projections, and transform data from a variety of sources into a consistent geographic coordinate system.\nUAV Toolbox is an application that provides tools and reference applications for designing, simulating, testing, and deploying unmanned aerial vehicle (UAV) and drone applications. You can design autonomous flight algorithms, UAV missions, and flight controllers. The Flight Log Analyzer app lets you interactively analyze 3D flight paths, telemetry information, and sensor readings from common flight log formats.\nParallel Computing Toolbox™ is a tool that lets you solve computationally and data-intensive problems using multicore processors, GPUs, and computer clusters. High-level constructs such as parallel for-loops, special array types, and parallelized numerical algorithms enable you to parallelize MATLAB® applications without CUDA or MPI programming. The toolbox lets you use parallel-enabled functions in MATLAB and other toolboxes. You can use the toolbox with Simulink® to run multiple simulations of a model in parallel. Programs and models can run in both interactive and batch modes.\nPartial Differential Equation Toolbox™ is a tool that provides functions for solving structural mechanics, heat transfer, and general partial differential equations (PDEs) using finite element analysis.\nROS Toolbox is a tool that provides an interface connecting MATLAB® and Simulink® with the Robot Operating System (ROS and ROS 2), enabling you to create a network of ROS nodes. The toolbox includes MATLAB functions and Simulink blocks to import, analyze, and play back ROS data recorded in rosbag files. You can also connect to a live ROS network to access ROS messages.\nRobotics Toolbox™ provides a toolbox that brings robotics specific functionality(designing, simulating, and testing manipulators, mobile robots, and humanoid robots) to MATLAB, exploiting the native capabilities of MATLAB (linear algebra, portability, graphics). The toolbox also supports mobile robots with functions for robot motion models (bicycle), path planning algorithms (bug, distance transform, D*, PRM), kinodynamic planning (lattice, RRT), localization (EKF, particle filter), map building (EKF) and simultaneous localization and mapping (EKF), and a Simulink model a of non-holonomic vehicle. The Toolbox also including a detailed Simulink model for a quadrotor flying robot.\nDeep Learning Toolbox™ is a tool that provides a framework for designing and implementing deep neural networks with algorithms, pretrained models, and apps. You can use convolutional neural networks (ConvNets, CNNs) and long short-term memory (LSTM) networks to perform classification and regression on image, time-series, and text data. You can build network architectures such as generative adversarial networks (GANs) and Siamese networks using automatic differentiation, custom training loops, and shared weights. With the Deep Network Designer app, you can design, analyze, and train networks graphically. It can exchange models with TensorFlow™ and PyTorch through the ONNX format and import models from TensorFlow-Keras and Caffe. The toolbox supports transfer learning with DarkNet-53, ResNet-50, NASNet, SqueezeNet and many other pretrained models.\nReinforcement Learning Toolbox™ is a tool that provides an app, functions, and a Simulink® block for training policies using reinforcement learning algorithms, including DQN, PPO, SAC, and DDPG. You can use these policies to implement controllers and decision-making algorithms for complex applications such as resource allocation, robotics, and autonomous systems.\nDeep Learning HDL Toolbox™ is a tool that provides functions and tools to prototype and implement deep learning networks on FPGAs and SoCs. It provides pre-built bitstreams for running a variety of deep learning networks on supported Xilinx® and Intel® FPGA and SoC devices. Profiling and estimation tools let you customize a deep learning network by exploring design, performance, and resource utilization tradeoffs.\nModel Predictive Control Toolbox™ is a tool that provides functions, an app, and Simulink® blocks for designing and simulating controllers using linear and nonlinear model predictive control (MPC). The toolbox lets you specify plant and disturbance models, horizons, constraints, and weights. By running closed-loop simulations, you can evaluate controller performance.\nVision HDL Toolbox™ is a tool that provides pixel-streaming algorithms for the design and implementation of vision systems on FPGAs and ASICs. It provides a design framework that supports a diverse set of interface types, frame sizes, and frame rates. The image processing, video, and computer vision algorithms in the toolbox use an architecture appropriate for HDL implementations.\nSoC Blockset™ is a tool that provides Simulink® blocks and visualization tools for modeling, simulating, and analyzing hardware and software architectures for ASICs, FPGAs, and systems on a chip (SoC). You can build your system architecture using memory models, bus models, and I/O models, and simulate the architecture together with the algorithms.\nWireless HDL Toolbox™ is a tool that provides pre-verified, hardware-ready Simulink® blocks and subsystems for developing 5G, LTE, and custom OFDM-based wireless communication applications. It includes reference applications, IP blocks, and gateways between frame and sample-based processing.\nThingSpeak™ is an IoT analytics service that allows you to aggregate, visualize, and analyze live data streams in the cloud. ThingSpeak provides instant visualizations of data posted by your devices to ThingSpeak. With the ability to execute MATLAB® code in ThingSpeak, you can perform online analysis and process data as it comes in. ThingSpeak is often used for prototyping and proof-of-concept IoT systems that require analytics.\nSEA-MAT is a collaborative effort to organize and distribute Matlab tools for the Oceanographic Community.\nhctsa is a software package for running highly comparative time-series analysis using Matlab.\nPlotly is a Graphing Library for MATLAB.\nYALMIP is a MATLAB toolbox for optimization modeling.\nGNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.",
+          "node_type": "group",
+          "title": "MATLAB Tools, Libraries, Frameworks"
+        }
+      ],
+      "title": "MATLAB Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C++ Core Guidelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41058054,
+                "language": "CSS",
+                "last_commit": "2026-08-06T15:54:13Z",
+                "owner": "isocpp",
+                "repo": "CppCoreGuidelines",
+                "stars": 45264
+              }
+            }
+          ],
+          "description": "C++ is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.\nC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.\nEmbedded C is a set of language extensions for the C programming language by the C Standards Committee to address issues that exist between C extensions for different embedded systems. The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.\nC & C++ Developer Tools from JetBrains\nOpen source C++ libraries on cppreference.com\nC++ Graphics libraries\nC++ Libraries in MATLAB\nC++ Tools and Libraries Articles\nGoogle C++ Style Guide\nIntroduction C++ Education course on Google Developers\nC++ style guide for Fuchsia\nC and C++ Coding Style Guide by OpenTitan\nChromium C++ Style Guide\nC++ Style Guide for ROS\nLearn C++\nLearn C : An Interactive C Tutorial\nC++ Institute\nC++ Online Training Courses on LinkedIn Learning\nC++ Tutorials on W3Schools\nLearn C Programming Online Courses on edX\nLearn C++ with Online Courses on edX\nLearn C++ on Codecademy\nCoding for Everyone: C and C++ course on Coursera\nC++ For C Programmers on Coursera\nTop C Courses on Coursera\nC++ Online Courses on Udemy\nTop C Courses on Udemy\nBasics of Embedded C Programming for Beginners on Udemy\nC++ For Programmers Course on Udacity\nC++ Fundamentals Course on Pluralsight\nIntroduction to C++ on MIT Free Online Course Materials\nIntroduction to C++ for Programmers | Harvard\nOnline C Courses | Harvard University",
+          "node_type": "group",
+          "title": "C/C++ Learning Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vcpkg",
+              "description": "is a C++ Library Manager for Windows, Linux, and MacOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68312233,
+                "language": "CMake",
+                "last_commit": "2026-08-24T11:17:53Z",
+                "owner": "microsoft",
+                "repo": "vcpkg",
+                "stars": 27390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CppSharp",
+              "description": "is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9988318,
+                "language": "C#",
+                "last_commit": "2026-05-18T12:47:02Z",
+                "owner": "mono",
+                "repo": "CppSharp",
+                "stars": 3403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Thrust",
+              "description": "is a C++ parallel programming library which resembles the C++ Standard Library. Thrust's high-level interface greatly enhances programmer productivity while enabling performance portability between GPUs and multicore CPUs. Interoperability with established technologies such as CUDA, TBB, and OpenMP integrates with existing software.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3633213,
+                "language": "C++",
+                "last_commit": "2024-02-08T15:54:40Z",
+                "owner": "NVIDIA",
+                "repo": "thrust",
+                "stars": 5002
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaCPP",
+              "description": "is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18992193,
+                "language": "Java",
+                "last_commit": "2026-08-10T23:19:17Z",
+                "owner": "bytedeco",
+                "repo": "javacpp",
+                "stars": 4705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spdlog",
+              "description": "is a very fast, header-only/compiled, C++ logging library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26038648,
+                "language": "C++",
+                "last_commit": "2026-08-08T10:51:08Z",
+                "owner": "gabime",
+                "repo": "spdlog",
+                "stars": 29520
+              }
+            }
+          ],
+          "description": "Visual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nReSharper C++ is a Visual Studio Extension for C++ developers developed by JetBrains.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.\nCLion is a cross-platform IDE for C and C++ developers developed by JetBrains.\nCode::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.\nConan is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.\nHigh Performance Computing (HPC) SDK is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.\nBoost is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.\nAutomake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.\nCmake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.\nGDB is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed.\nGCC is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.\nGSL is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.\nOpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.\nLibtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.\nMaven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.\nTAU (Tuning And Analysis Utilities) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.\nClang is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.\nOpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nLibcu++ is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.\nOat++ is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.\nCython is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.\nInfer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.",
+          "node_type": "group",
+          "title": "C/C++ Tools and Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "If would you like to contribute to this guide simply make a Pull Request",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398888395,
+                "language": "Python",
+                "last_commit": "2022-03-06T21:36:32Z",
+                "owner": "mikeroyal",
+                "repo": "DSP-Guide",
+                "stars": 181
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Contribute"
+        }
+      ],
+      "title": "C/C++ Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:32:55.002Z",
+    "last_updated": "2026-08-24T14:38:20.903Z",
     "original_repository": "mikeroyal/DSP-Guide",
     "original_repository_id": 398888395,
     "original_repository_sha": "433ebc2e0c89907e1f5b1462664a819053a36c21",
