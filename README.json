@@ -466,7 +466,7 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:39:56Z",
+                "last_commit": "2026-08-25T06:02:21Z",
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11127
@@ -484,7 +484,7 @@
                 "last_commit": "2026-08-25T00:45:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5260
+                "stars": 5261
               }
             }
           ],
@@ -569,7 +569,7 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:39:56Z",
+                "last_commit": "2026-08-25T06:02:21Z",
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11127
@@ -587,7 +587,7 @@
                 "last_commit": "2026-08-25T00:45:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5260
+                "stars": 5261
               }
             },
             {
@@ -851,7 +851,7 @@
                 "last_commit": "2026-08-25T01:20:49Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27392
+                "stars": 27391
               }
             },
             {
@@ -946,7 +946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:27:43.696Z",
+    "last_updated": "2026-08-25T06:27:44.824Z",
     "original_repository": "mikeroyal/DSP-Guide",
     "original_repository_id": 398888395,
     "original_repository_sha": "433ebc2e0c89907e1f5b1462664a819053a36c21",
