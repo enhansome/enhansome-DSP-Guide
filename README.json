@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-20T03:00:08Z",
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12916
+                "stars": 12918
               }
             }
           ],
@@ -379,7 +379,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34559
+                "stars": 34558
               }
             },
             {
@@ -439,7 +439,7 @@
                 "last_commit": "2023-08-02T19:26:23Z",
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11926
+                "stars": 11925
               }
             },
             {
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-21T17:39:56Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11126
+                "stars": 11127
               }
             },
             {
@@ -481,7 +481,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:05:11Z",
+                "last_commit": "2026-08-25T00:45:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5260
@@ -527,7 +527,7 @@
                 "last_commit": "2026-08-20T10:37:54Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10292
+                "stars": 10294
               }
             },
             {
@@ -572,7 +572,7 @@
                 "last_commit": "2026-08-21T17:39:56Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11126
+                "stars": 11127
               }
             },
             {
@@ -584,7 +584,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:05:11Z",
+                "last_commit": "2026-08-25T00:45:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5260
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45264
+                "stars": 45266
               }
             }
           ],
@@ -848,10 +848,10 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-24T11:17:53Z",
+                "last_commit": "2026-08-25T01:20:49Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27390
+                "stars": 27392
               }
             },
             {
@@ -946,7 +946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:20.903Z",
+    "last_updated": "2026-08-25T03:27:43.696Z",
     "original_repository": "mikeroyal/DSP-Guide",
     "original_repository_id": 398888395,
     "original_repository_sha": "433ebc2e0c89907e1f5b1462664a819053a36c21",
