@@ -303,7 +303,7 @@
                 "archived": false,
                 "id": 28635894,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:32:38Z",
+                "last_commit": "2026-08-27T12:59:28Z",
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3486
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-26T00:16:18Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11130
+                "stars": 11131
               }
             },
             {
@@ -481,7 +481,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:34:27Z",
+                "last_commit": "2026-08-27T11:47:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5264
@@ -572,7 +572,7 @@
                 "last_commit": "2026-08-26T00:16:18Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11130
+                "stars": 11131
               }
             },
             {
@@ -584,7 +584,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:34:27Z",
+                "last_commit": "2026-08-27T11:47:05Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5264
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45280
+                "stars": 45279
               }
             }
           ],
@@ -946,7 +946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:08.035Z",
+    "last_updated": "2026-08-27T13:03:13.238Z",
     "original_repository_info": {
       "archived": false,
       "id": 398888395,
