@@ -15,7 +15,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2022-03-06T21:36:32Z",
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 181
+            "stars": 183
           }
         }
       ],
@@ -303,7 +303,7 @@
                 "archived": false,
                 "id": 28635894,
                 "language": "C++",
-                "last_commit": "2026-08-25T16:26:10Z",
+                "last_commit": "2026-08-27T09:32:38Z",
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3486
@@ -318,10 +318,10 @@
                 "archived": false,
                 "id": 34405381,
                 "language": "Python",
-                "last_commit": "2026-08-26T02:40:14Z",
+                "last_commit": "2026-08-26T10:09:40Z",
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12922
+                "stars": 12927
               }
             }
           ],
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-26T00:16:18Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11128
+                "stars": 11130
               }
             },
             {
@@ -481,10 +481,10 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-25T22:16:18Z",
+                "last_commit": "2026-08-27T11:34:27Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5262
+                "stars": 5264
               }
             }
           ],
@@ -512,7 +512,7 @@
                 "last_commit": "2023-12-06T09:16:49Z",
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17591
+                "stars": 17590
               }
             },
             {
@@ -524,10 +524,10 @@
                 "archived": false,
                 "id": 112542515,
                 "language": "C++",
-                "last_commit": "2026-08-20T10:37:54Z",
+                "last_commit": "2026-08-27T07:28:38Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10303
+                "stars": 10323
               }
             },
             {
@@ -572,7 +572,7 @@
                 "last_commit": "2026-08-26T00:16:18Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11128
+                "stars": 11130
               }
             },
             {
@@ -584,10 +584,10 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-25T22:16:18Z",
+                "last_commit": "2026-08-27T11:34:27Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5262
+                "stars": 5264
               }
             },
             {
@@ -602,7 +602,7 @@
                 "last_commit": "2024-02-08T15:54:40Z",
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5003
+                "stars": 5002
               }
             },
             {
@@ -748,7 +748,7 @@
             "last_commit": "2023-12-06T09:16:49Z",
             "owner": "NVIDIA",
             "repo": "nvidia-docker",
-            "stars": 17591
+            "stars": 17590
           }
         }
       ],
@@ -771,7 +771,7 @@
                 "last_commit": "2023-12-13T03:58:36Z",
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
-                "stars": 1257
+                "stars": 1258
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45272
+                "stars": 45280
               }
             }
           ],
@@ -848,10 +848,10 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-25T19:57:27Z",
+                "last_commit": "2026-08-26T19:17:53Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27396
+                "stars": 27403
               }
             },
             {
@@ -866,7 +866,7 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3404
+                "stars": 3406
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2024-02-08T15:54:40Z",
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5003
+                "stars": 5002
               }
             },
             {
@@ -911,7 +911,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29521
+                "stars": 29530
               }
             }
           ],
@@ -933,7 +933,7 @@
                 "last_commit": "2022-03-06T21:36:32Z",
                 "owner": "mikeroyal",
                 "repo": "DSP-Guide",
-                "stars": 181
+                "stars": 183
               }
             }
           ],
@@ -946,9 +946,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:34:12.468Z",
-    "original_repository": "mikeroyal/DSP-Guide",
-    "original_repository_id": 398888395,
+    "last_updated": "2026-08-27T11:37:08.035Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 398888395,
+      "language": "Python",
+      "last_commit": "2022-03-06T21:36:32Z",
+      "owner": "mikeroyal",
+      "repo": "DSP-Guide",
+      "stars": 183
+    },
     "original_repository_sha": "433ebc2e0c89907e1f5b1462664a819053a36c21",
     "enhanced_repository": "enhansome/enhansome-DSP-Guide",
     "enhanced_repository_description": null,
