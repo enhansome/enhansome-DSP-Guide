@@ -15,56 +15,56 @@
 
 # Table of Contents
 
-1. [Digital Signal Processing(DSP) Learning Resources](https://github.com/mikeroyal/DSP-Guide#digital-signal-processingdsp-learning-resources) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+1. [Digital Signal Processing(DSP) Learning Resources](https://github.com/mikeroyal/DSP-Guide#digital-signal-processingdsp-learning-resources) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-2. [Digital Signal Processing(DSP) Tools and Frameworks](https://github.com/mikeroyal/DSP-Guide#digital-signal-processingdsp-tools-libraries-and-frameworks) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+2. [Digital Signal Processing(DSP) Tools and Frameworks](https://github.com/mikeroyal/DSP-Guide#digital-signal-processingdsp-tools-libraries-and-frameworks) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-3. [Computer Vision Development](https://github.com/mikeroyal/DSP-Guide#computer-vision-development) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+3. [Computer Vision Development](https://github.com/mikeroyal/DSP-Guide#computer-vision-development) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-4. [Photogrammetry Development](https://github.com/mikeroyal/DSP-Guide#photogrammetry-development) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+4. [Photogrammetry Development](https://github.com/mikeroyal/DSP-Guide#photogrammetry-development) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-5. [LiDAR Development](https://github.com/mikeroyal/DSP-Guide#lidar-development) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+5. [LiDAR Development](https://github.com/mikeroyal/DSP-Guide#lidar-development) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-6. [Algorithms](https://github.com/mikeroyal/DSP-Guide#algorithms) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+6. [Algorithms](https://github.com/mikeroyal/DSP-Guide#algorithms) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-7. [Differential Equations](https://github.com/mikeroyal/DSP-Guide#differential-equations) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+7. [Differential Equations](https://github.com/mikeroyal/DSP-Guide#differential-equations) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-8. [Electric charge, field, and potential](https://github.com/mikeroyal/DSP-Guide#electric-charge-field-and-potential) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+8. [Electric charge, field, and potential](https://github.com/mikeroyal/DSP-Guide#electric-charge-field-and-potential) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
    * Charge and electric force (Coulomb's law): Electric charge, field, and potential
    * Electric field: Electric charge, field, and potential
    * Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
 
-9. [Circuits](https://github.com/mikeroyal/DSP-Guide#circuits) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+9. [Circuits](https://github.com/mikeroyal/DSP-Guide#circuits) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
    * Ohm's law and circuits with resistors: Circuits
    * Circuits with capacitors: Circuits
 
-10. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/DSP-Guide#electromagnetic-waves-and-interference) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+10. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/DSP-Guide#electromagnetic-waves-and-interference) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
     * Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
     * Electric motors: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic flux and Faraday's law
 
-11. [Electromagnetic waves and interference](https://github.com/mikeroyal/DSP-Guide#electromagnetic-waves-and-interference) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+11. [Electromagnetic waves and interference](https://github.com/mikeroyal/DSP-Guide#electromagnetic-waves-and-interference) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
     * Introduction to electromagnetic waves: Electromagnetic waves and interference
     * Interference of electromagnetic waves
 
-12. [Machine Learning](https://github.com/mikeroyal/DSP-Guide#machine-learning) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+12. [Machine Learning](https://github.com/mikeroyal/DSP-Guide#machine-learning) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-13. [CUDA Development](https://github.com/mikeroyal/DSP-Guide#cuda-development) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+13. [CUDA Development](https://github.com/mikeroyal/DSP-Guide#cuda-development) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-14. [OpenCL Development](https://github.com/mikeroyal/DSP-Guide#opencl-development) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+14. [OpenCL Development](https://github.com/mikeroyal/DSP-Guide#opencl-development) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-15. [MATLAB Development](https://github.com/mikeroyal/DSP-Guide#matlab-development) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+15. [MATLAB Development](https://github.com/mikeroyal/DSP-Guide#matlab-development) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
-16. [C/C++ Development](https://github.com/mikeroyal/DSP-Guide#cc-development) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+16. [C/C++ Development](https://github.com/mikeroyal/DSP-Guide#cc-development) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 # Awesome Digital Signal Processing(DSP) Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 [Digital Signal Processing (DSP)](https://en.wikipedia.org/wiki/Digital_signal_processing) is the application of a digital computer to modify an analog or digital signal. It's wadely used in many applications including video/audio/data communications and networking, medical imaging and computer vision, speech synthesis and coding, digital audio and video, and control of complex systems and industrial processes.
 
@@ -90,7 +90,7 @@
 
 # Digital Signal Processing(DSP) Tools, Libraries and Frameworks
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 [DSP System Toolbox™](https://www.mathworks.com/products/dsp-system.html) is a tool that provides algorithms, apps, and scopes for designing, simulating, and analyzing signal processing systems in MATLAB® and Simulink®. You can model real-time DSP systems for communications, radar, audio, medical devices, IoT, and other applications. The DSP System Toolbox you can design and analyze FIR, IIR, multirate, multistage, and adaptive filters. You can stream signals from variables, data files, and network devices for system development and verification.
 
@@ -148,7 +148,7 @@
 
 [GStreamer](https://gstreamer.freedesktop.org/) is a library for constructing graphs of media-handling components. The applications it supports range from simple Ogg/Vorbis playback, audio/video streaming to complex audio (mixing) and video (non-linear editing) processing. Applications can take advantage of advances in codec and filter technology transparently.
 
-[Media Source Extensions (MSE)](https://www.w3.org/TR/media-source/) is a [W3C specification](https://github.com/w3c/media-source) ⭐ 287 | 🐛 115 | 🌐 HTML | 📅 2026-08-07 that allows JavaScript to send byte streams to media codecs within Web browsers that support HTML5 video and audio. Also, this allows the implementation of client-side prefetching and buffering code for streaming media entirely in JavaScript.
+[Media Source Extensions (MSE)](https://www.w3.org/TR/media-source/) is a [W3C specification](https://github.com/w3c/media-source) ⭐ 287 | 🐛 116 | 🌐 HTML | 📅 2026-08-07 that allows JavaScript to send byte streams to media codecs within Web browsers that support HTML5 video and audio. Also, this allows the implementation of client-side prefetching and buffering code for streaming media entirely in JavaScript.
 
 [WebRTC](https://webrtc.org/) is an open-source project that adds real-time communication capabilities to your application that works on top of an open standard. It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice- and video-communication solutions.
 
@@ -180,7 +180,7 @@
 
 # Computer Vision Development
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129494417-b0ee8192-ac41-4a6d-8e1d-4761ffc8bab1.png">
@@ -263,7 +263,7 @@
 
 # Photogrammetry Development
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129494677-0341843b-c78c-4027-8a2c-43e98a995f6f.png">
@@ -320,7 +320,7 @@
 
 [Terramodel](https://heavyindustry.trimble.com/products/terramodel) is a powerful software package for the surveyor, civil engineer or contractor who requires a CAD and design package with integrated support for raw survey data.
 
-[MicMac](https://github.com/micmacIGN/micmac) ⭐ 921 | 🐛 116 | 🌐 C++ | 📅 2026-06-19 is a free and  open-source photogrammetry software tools for 3D reconstruction.
+[MicMac](https://github.com/micmacIGN/micmac) ⭐ 923 | 🐛 116 | 🌐 C++ | 📅 2026-06-19 is a free and  open-source photogrammetry software tools for 3D reconstruction.
 
 \[3DF Zephyr] (<https://www.3dflow.net/3df-zephyr-photogrammetry-software/>) is a photogrammetry software solution by 3Dflow. It allows you automatically reconstruct 3D models from photos and deal with any 3D reconstruction and scanning challenge. No matter what camera sensor, drone or laser scanner device you are going to use.
 
@@ -328,17 +328,17 @@
 
 [Multi-View Environment (MVE)](https://www.gcc.tu-darmstadt.de/home/proj/mve/) is an effort to ease the work with multi-view datasets and to support the development of algorithms based on multiple views. It features Structure from Motion, Multi-View Stereo and Surface Reconstruction. MVE is developed at the TU Darmstadt.
 
-[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,488 | 🐛 38 | 🌐 C++ | 📅 2026-08-30 is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms. AliceVision comes up with strong software basis and state-of-the-art computer vision algorithms that can be tested, analyzed and reused.
+[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,489 | 🐛 38 | 🌐 C++ | 📅 2026-08-30 is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms. AliceVision comes up with strong software basis and state-of-the-art computer vision algorithms that can be tested, analyzed and reused.
 
-[Meshroom](https://github.com/alicevision/meshroom) ⭐ 12,934 | 🐛 516 | 🌐 Python | 📅 2026-08-31 is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
+[Meshroom](https://github.com/alicevision/meshroom) ⭐ 12,936 | 🐛 516 | 🌐 Python | 📅 2026-09-01 is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
 
 [PhotoModeler](https://www.photomodeler.com/) is a software extracts Measurements and Models from photographs taken with an ordinary camera. A cost-effective way for accurate 2D or 3D measurement, photo-digitizing, surveying, 3D scanning, and reality capture.
 
 [ODM](https://www.opendronemap.org/odm/) is an open source command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.
 
-[WebODM](https://www.opendronemap.org/webodm/) is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,434 | 🐛 113 | 🌐 Python | 📅 2026-08-26 and [MicMac](https://github.com/dronemapper-io/NodeMICMAC/) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-11.
+[WebODM](https://www.opendronemap.org/webodm/) is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,434 | 🐛 114 | 🌐 Python | 📅 2026-08-31 and [MicMac](https://github.com/dronemapper-io/NodeMICMAC/) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-11.
 
-[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 300 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-25 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,434 | 🐛 113 | 🌐 Python | 📅 2026-08-26. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,130 | 🐛 51 | 🌐 Python | 📅 2026-08-29, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 72 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
+[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 300 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-25 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,434 | 🐛 114 | 🌐 Python | 📅 2026-08-31. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,134 | 🐛 51 | 🌐 Python | 📅 2026-09-01, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 72 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
 
 \[ClusterODM]<https://www.opendronemap.org/clusterodm/>) is a reverse proxy, load balancer and task tracker with optional cloud autoscaling capabilities for NodeODM API compatible nodes. In a nutshell, it's a program to link together multiple NodeODM API compatible nodes under a single network address.
 
@@ -348,7 +348,7 @@
 
 # LiDAR Development
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/121950812-f5ae2900-cd0e-11eb-8989-9188bd18a68c.png">
@@ -428,7 +428,7 @@
 
 # Algorithms
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 [Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
 
@@ -513,7 +513,7 @@
 
 # Differential Equations
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/127784741-db52dcd7-eb37-4b74-a307-7a45c69c4fd6.png">
@@ -601,7 +601,7 @@
 
 # Electric charge, field, and potential
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 ```
  - Charge and electric force (Coulomb's law): Electric charge, field, and potential
@@ -623,7 +623,7 @@
 
 # Circuits
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 ```
 - Ohm's law and circuits with resistors: Circuits
@@ -646,7 +646,7 @@
 
 # Magnetic forces, magnetic fields, and Faraday's law
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 ```
 - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
@@ -678,7 +678,7 @@
 
 # Electromagnetic waves and interference
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 ```
 - Introduction to electromagnetic waves: Electromagnetic waves and interference
@@ -701,7 +701,7 @@
 
 # Machine Learning
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352527-ad077880-1078-11eb-98b7-da1c0586cf0e.png">
@@ -784,7 +784,7 @@
 
 [Caffe](https://github.com/BVLC/caffe) ⭐ 34,555 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
-[Theano](https://github.com/Theano/Theano) ⭐ 9,999 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
+[Theano](https://github.com/Theano/Theano) ⭐ 10,000 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
 [nGraph](https://github.com/NervanaSystems/ngraph) ⚠️ Archived is an open source C++ library, compiler and runtime for Deep Learning. The nGraph Compiler aims to accelerate developing AI workloads using any deep learning framework and deploying to a variety of hardware targets.It provides the freedom, performance, and ease-of-use to AI developers.
 
@@ -806,17 +806,17 @@
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,137 | 🐛 1,799 | 🌐 Python | 📅 2026-08-28 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,142 | 🐛 1,798 | 🌐 Python | 📅 2026-08-31 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,296 | 🐛 711 | 🌐 Python | 📅 2026-08-30 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,298 | 🐛 711 | 🌐 Python | 📅 2026-09-01 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,272 | 🐛 845 | 🌐 Python | 📅 2026-08-28 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,270 | 🐛 848 | 🌐 Python | 📅 2026-09-01 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # CUDA Development
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306481-e17b8f00-ff27-11ea-832f-c85374acb3b1.png">
@@ -858,19 +858,19 @@
 
 [CUDA-X HPC](https://www.nvidia.com/en-us/technologies/cuda-x/) is a collection of libraries, tools, compilers and APIs that help developers solve the world's most challenging problems. CUDA-X HPC includes highly tuned kernels essential for high-performance computing (HPC).
 
-[NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker) ⚠️ Archived is a collection of tools & libraries that allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime [library](https://github.com/NVIDIA/libnvidia-container) ⭐ 1,122 | 🐛 15 | 🌐 C | 📅 2026-08-30 and utilities to automatically configure containers to leverage NVIDIA GPUs.
+[NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker) ⚠️ Archived is a collection of tools & libraries that allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime [library](https://github.com/NVIDIA/libnvidia-container) ⭐ 1,122 | 🐛 14 | 🌐 C | 📅 2026-08-31 and utilities to automatically configure containers to leverage NVIDIA GPUs.
 
 [Minkowski Engine](https://nvidia.github.io/MinkowskiEngine) is an auto-differentiation library for sparse tensors. It supports all standard neural network layers such as convolution, pooling, unpooling, and broadcasting operations for sparse tensors.
 
-[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,352 | 🐛 702 | 🌐 C++ | 📅 2026-08-28 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
+[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,358 | 🐛 700 | 🌐 C++ | 📅 2026-08-28 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
 
 [CUB](https://github.com/NVIDIA/cub) ⚠️ Archived is a cooperative primitives for CUDA C++ kernel authors.
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,137 | 🐛 1,799 | 🌐 Python | 📅 2026-08-28 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,142 | 🐛 1,798 | 🌐 Python | 📅 2026-08-31 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,296 | 🐛 711 | 🌐 Python | 📅 2026-08-30 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,298 | 🐛 711 | 🌐 Python | 📅 2026-09-01 for high performance training and inference.
 
 [CuPy](https://cupy.dev/) is an implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it. It supports a subset of numpy.ndarray interface.
 
@@ -878,7 +878,7 @@
 
 [cuDF](https://rapids.ai/) is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. cuDF provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,272 | 🐛 845 | 🌐 Python | 📅 2026-08-28 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,270 | 🐛 848 | 🌐 Python | 📅 2026-09-01 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 [ArrayFire](https://arrayfire.com/) is a general-purpose library that simplifies the process of developing software that targets parallel and massively-parallel architectures including CPUs, GPUs, and other hardware acceleration devices.
 
@@ -894,7 +894,7 @@
 
 # OpenCL Development
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/130368400-7b6a82d3-ed03-4158-ade4-d7fc6cc9960a.png">
@@ -931,7 +931,7 @@
 
 [GPUVerify](https://streamhpc.com/knowledge/tools/gpuverify/) is a tool for formal analysis of GPU kernels written in OpenCL and CUDA. The tool can prove that kernels are free from certain types of defect, including data races.
 
-[OpenCL ICD Loader](https://github.com/KhronosGroup/OpenCL-ICD-Loader) ⭐ 301 | 🐛 55 | 🌐 C | 📅 2026-08-18 is an Installable Client Driver (ICD) mechanism to allow developers to build applications against an Installable Client Driver loader (ICD loader) rather than linking their applications against a specific OpenCL implementation.
+[OpenCL ICD Loader](https://github.com/KhronosGroup/OpenCL-ICD-Loader) ⭐ 301 | 🐛 56 | 🌐 C | 📅 2026-09-01 is an Installable Client Driver (ICD) mechanism to allow developers to build applications against an Installable Client Driver loader (ICD loader) rather than linking their applications against a specific OpenCL implementation.
 
 [clBLAS](https://github.com/clMathLibraries/clBLAS) ⭐ 866 | 🐛 98 | 🌐 C++ | 📅 2024-08-02 is a software library containing BLAS functions written in OpenCL.
 
@@ -943,7 +943,7 @@
 
 [CLsmith](https://github.com/ChrisLidbury/CLSmith/) ⭐ 27 | 🐛 3 | 🌐 C++ | 📅 2025-11-27 is a tool that  makes use of two existing testing techniques, Random Differential Testing and Equivalence Modulo Inputs (EMI), applying them in a many-core environment, OpenCL. Its primary feature is the generation of random OpenCL kernels, exercising many features of the language. It also brings a novel idea of applying EMI, via dead-code injection.
 
-[Oclgrind](https://github.com/jrprice/Oclgrind) ⭐ 373 | 🐛 46 | 🌐 C++ | 📅 2026-03-24 is a virtual OpenCL device simulator, including an OpenCL runtime with ICD support. The goal is to provide a platform for creating tools to aid OpenCL development. In particular, this project currently implements utilities for debugging memory access errors, detecting data-races and barrier divergence, collecting instruction histograms, and for interactive OpenCL kernel debugging. The simulator is built on an interpreter for LLVM IR.
+[Oclgrind](https://github.com/jrprice/Oclgrind) ⭐ 375 | 🐛 46 | 🌐 C++ | 📅 2026-03-24 is a virtual OpenCL device simulator, including an OpenCL runtime with ICD support. The goal is to provide a platform for creating tools to aid OpenCL development. In particular, this project currently implements utilities for debugging memory access errors, detecting data-races and barrier divergence, collecting instruction histograms, and for interactive OpenCL kernel debugging. The simulator is built on an interpreter for LLVM IR.
 
 [NVIDIA® Nsight™ Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.
 
@@ -963,11 +963,11 @@
 
 [NVIDIA cuDNN](https://developer.nvidia.com/cudnn) is a GPU-accelerated library of primitives for [deep neural networks](https://developer.nvidia.com/deep-learning). cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including [Caffe2](https://caffe2.ai/), [Chainer](https://chainer.org/), [Keras](https://keras.io/), [MATLAB](https://www.mathworks.com/solutions/deep-learning.html), [MxNet](https://mxnet.incubator.apache.org/), [PyTorch](https://pytorch.org/), and [TensorFlow](https://www.tensorflow.org/).
 
-[NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker) ⚠️ Archived is a collection of tools & libraries that allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime [library](https://github.com/NVIDIA/libnvidia-container) ⭐ 1,122 | 🐛 15 | 🌐 C | 📅 2026-08-30 and utilities to automatically configure containers to leverage NVIDIA GPUs.
+[NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker) ⚠️ Archived is a collection of tools & libraries that allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime [library](https://github.com/NVIDIA/libnvidia-container) ⭐ 1,122 | 🐛 14 | 🌐 C | 📅 2026-08-31 and utilities to automatically configure containers to leverage NVIDIA GPUs.
 
 # MATLAB Development
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306473-de809e80-ff27-11ea-924b-0a6947ae38bc.png">
@@ -1062,7 +1062,7 @@
 
 [SEA-MAT](https://sea-mat.github.io/sea-mat/) is a collaborative effort to organize and distribute Matlab tools for the Oceanographic Community.
 
-[Gramm](https://github.com/piermorel/gramm) ⭐ 825 | 🐛 22 | 🌐 HTML | 📅 2026-06-25 is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library.
+[Gramm](https://github.com/piermorel/gramm) ⭐ 824 | 🐛 22 | 🌐 HTML | 📅 2026-06-25 is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library.
 
 [hctsa](https://hctsa-users.gitbook.io/hctsa-manual) is a software package for running highly comparative time-series analysis using Matlab.
 
@@ -1074,7 +1074,7 @@
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -1109,7 +1109,7 @@
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,291 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,288 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -1157,7 +1157,7 @@
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,415 | 🐛 1,199 | 🌐 CMake | 📅 2026-08-31 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,417 | 🐛 1,176 | 🌐 CMake | 📅 2026-08-31 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -1167,7 +1167,7 @@
 
 [Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.
 
-[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,407 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
+[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,406 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
 
 [Conan](https://conan.io/) is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.
 
@@ -1209,20 +1209,20 @@
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,552 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,559 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/DSP-Guide/pulls) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/DSP-Guide/pulls) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06.
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2022-03-06
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2022-03-06
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
