@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -56,7 +56,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -130,7 +130,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -167,7 +167,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -204,7 +204,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -241,7 +241,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -278,7 +278,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -315,7 +315,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -352,7 +352,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -389,7 +389,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -426,7 +426,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -463,7 +463,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -537,7 +537,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -574,7 +574,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "DSP-Guide",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -663,7 +663,7 @@
                 "open_issues": 116,
                 "owner": "micmacIGN",
                 "repo": "micmac",
-                "stars": 924,
+                "stars": 925,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -715,8 +715,8 @@
                 "id": 34405381,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T14:20:59Z",
-                "open_issues": 516,
+                "last_commit": "2026-09-05T02:22:00Z",
+                "open_issues": 515,
                 "owner": "alicevision",
                 "repo": "Meshroom",
                 "stars": 12942,
@@ -810,7 +810,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34553,
+                "stars": 34552,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -954,11 +954,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-03T02:34:28Z",
-                "open_issues": 1796,
+                "last_commit": "2026-09-04T22:03:55Z",
+                "open_issues": 1794,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11145,
+                "stars": 11150,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -983,11 +983,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T01:23:36Z",
-                "open_issues": 806,
+                "last_commit": "2026-09-05T00:52:16Z",
+                "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5270,
+                "stars": 5271,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -1027,7 +1027,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17591,
+                "stars": 17592,
                 "topics": [
                   "cuda",
                   "docker",
@@ -1050,10 +1050,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:26:22Z",
-                "open_issues": 699,
+                "open_issues": 704,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10375,
+                "stars": 10377,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1137,11 +1137,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-03T02:34:28Z",
-                "open_issues": 1796,
+                "last_commit": "2026-09-04T22:03:55Z",
+                "open_issues": 1794,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11145,
+                "stars": 11150,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1166,11 +1166,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T01:23:36Z",
-                "open_issues": 806,
+                "last_commit": "2026-09-05T00:52:16Z",
+                "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5270,
+                "stars": 5271,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -1422,7 +1422,7 @@
             "open_issues": 0,
             "owner": "NVIDIA",
             "repo": "nvidia-docker",
-            "stars": 17591,
+            "stars": 17592,
             "topics": [
               "cuda",
               "docker",
@@ -1559,7 +1559,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45296,
+                "stars": 45302,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -1584,10 +1584,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-09-04T06:31:25Z",
-                "open_issues": 1167,
+                "open_issues": 1181,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27433,
+                "stars": 27437,
                 "topics": [
                   "c",
                   "cmake",
@@ -1619,7 +1619,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3407,
+                "stars": 3406,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -1724,11 +1724,11 @@
                 "id": 26038648,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-08T10:51:08Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-05T06:44:37Z",
+                "open_issues": 47,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29569,
+                "stars": 29572,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1762,7 +1762,7 @@
                 "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "DSP-Guide",
-                "stars": 184,
+                "stars": 185,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1793,7 +1793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:23:51.239Z",
+    "last_updated": "2026-09-05T07:05:30.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Signal Processing(DSP) Guide",
@@ -1805,7 +1805,7 @@
       "open_issues": 0,
       "owner": "mikeroyal",
       "repo": "DSP-Guide",
-      "stars": 184,
+      "stars": 185,
       "topics": [
         "awesome",
         "awesome-list",
