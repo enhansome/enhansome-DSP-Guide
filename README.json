@@ -681,7 +681,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T14:21:12Z",
-                "open_issues": 41,
+                "open_issues": 43,
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3498,
@@ -719,7 +719,7 @@
                 "open_issues": 520,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12969,
+                "stars": 12971,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -958,7 +958,7 @@
                 "open_issues": 1792,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11156,
+                "stars": 11158,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -987,7 +987,7 @@
                 "open_issues": 794,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5283,
+                "stars": 5284,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -1027,7 +1027,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17599,
+                "stars": 17598,
                 "topics": [
                   "cuda",
                   "docker",
@@ -1053,7 +1053,7 @@
                 "open_issues": 745,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10454,
+                "stars": 10458,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1141,7 +1141,7 @@
                 "open_issues": 1792,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11156,
+                "stars": 11158,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1170,7 +1170,7 @@
                 "open_issues": 794,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5283,
+                "stars": 5284,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -1422,7 +1422,7 @@
             "open_issues": 0,
             "owner": "NVIDIA",
             "repo": "nvidia-docker",
-            "stars": 17599,
+            "stars": 17598,
             "topics": [
               "cuda",
               "docker",
@@ -1584,10 +1584,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-09-19T05:46:12Z",
-                "open_issues": 1108,
+                "open_issues": 1110,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27472,
+                "stars": 27470,
                 "topics": [
                   "c",
                   "cmake",
@@ -1725,10 +1725,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-05T06:44:37Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29613,
+                "stars": 29614,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1793,7 +1793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:30:49.582Z",
+    "last_updated": "2026-09-20T07:54:20.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Signal Processing(DSP) Guide",
