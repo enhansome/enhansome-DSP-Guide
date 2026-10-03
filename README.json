@@ -385,7 +385,7 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:05:38Z",
+                "last_commit": "2026-10-03T06:48:33Z",
                 "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
@@ -568,7 +568,7 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:05:38Z",
+                "last_commit": "2026-10-03T06:48:33Z",
                 "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
@@ -695,7 +695,7 @@
             "open_issues": 98,
             "owner": "clMathLibraries",
             "repo": "clBLAS",
-            "stars": 866,
+            "stars": 865,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:41.020Z"
@@ -985,8 +985,8 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:56:12Z",
-                "open_issues": 1092,
+                "last_commit": "2026-10-03T08:29:17Z",
+                "open_issues": 1088,
                 "owner": "microsoft",
                 "repo": "vcpkg",
                 "stars": 27513,
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:31:13.627Z",
+    "last_updated": "2026-10-03T08:31:02.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Signal Processing(DSP) Guide",
