@@ -65,7 +65,7 @@
                 "open_issues": 116,
                 "owner": "micmacIGN",
                 "repo": "micmac",
-                "stars": 929,
+                "stars": 930,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -86,7 +86,7 @@
                 "open_issues": 39,
                 "owner": "alicevision",
                 "repo": "AliceVision",
-                "stars": 3511,
+                "stars": 3512,
                 "topics": [
                   "3d-computer-vision",
                   "3d-reconstruction",
@@ -121,7 +121,7 @@
                 "open_issues": 530,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12999,
+                "stars": 13002,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -170,7 +170,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3642,
+                "stars": 3641,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -212,7 +212,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34551,
+                "stars": 34549,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -313,7 +313,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11917,
+                "stars": 11916,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -356,11 +356,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-09T08:21:54Z",
-                "open_issues": 1822,
+                "last_commit": "2026-10-11T00:21:26Z",
+                "open_issues": 1824,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11176,
+                "stars": 11174,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -386,10 +386,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T07:44:17Z",
-                "open_issues": 806,
+                "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5302,
+                "stars": 5303,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -429,7 +429,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17603,
+                "stars": 17602,
                 "topics": [
                   "cuda",
                   "docker",
@@ -452,10 +452,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T08:49:11Z",
-                "open_issues": 782,
+                "open_issues": 783,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10553,
+                "stars": 10555,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -539,11 +539,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-09T08:21:54Z",
-                "open_issues": 1822,
+                "last_commit": "2026-10-11T00:21:26Z",
+                "open_issues": 1824,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11176,
+                "stars": 11174,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -569,10 +569,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T07:44:17Z",
-                "open_issues": 806,
+                "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5302,
+                "stars": 5303,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -824,7 +824,7 @@
             "open_issues": 0,
             "owner": "NVIDIA",
             "repo": "nvidia-docker",
-            "stars": 17603,
+            "stars": 17602,
             "topics": [
               "cuda",
               "docker",
@@ -858,7 +858,7 @@
                 "open_issues": 19,
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
-                "stars": 1258,
+                "stars": 1257,
                 "topics": [
                   "color-scheme",
                   "color-theme",
@@ -986,10 +986,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-10-10T01:05:48Z",
-                "open_issues": 1072,
+                "open_issues": 1081,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27517,
+                "stars": 27515,
                 "topics": [
                   "c",
                   "cmake",
@@ -1130,7 +1130,7 @@
                 "open_issues": 56,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29676,
+                "stars": 29680,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:53:54.356Z",
+    "last_updated": "2026-10-11T09:14:53.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Signal Processing(DSP) Guide",
