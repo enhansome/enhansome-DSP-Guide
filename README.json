@@ -65,7 +65,7 @@
                 "open_issues": 116,
                 "owner": "micmacIGN",
                 "repo": "micmac",
-                "stars": 930,
+                "stars": 931,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -82,7 +82,7 @@
                 "id": 28635894,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T15:38:53Z",
+                "last_commit": "2026-10-12T08:31:24Z",
                 "open_issues": 39,
                 "owner": "alicevision",
                 "repo": "AliceVision",
@@ -117,11 +117,11 @@
                 "id": 34405381,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T15:28:00Z",
-                "open_issues": 530,
+                "last_commit": "2026-10-11T10:24:45Z",
+                "open_issues": 531,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 13002,
+                "stars": 13004,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -170,7 +170,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3641,
+                "stars": 3642,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -212,7 +212,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -237,7 +237,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10007,
+                "stars": 10008,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -313,7 +313,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11916,
+                "stars": 11917,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -357,7 +357,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-11T00:21:26Z",
-                "open_issues": 1824,
+                "open_issues": 1826,
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11174,
@@ -429,7 +429,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17602,
+                "stars": 17601,
                 "topics": [
                   "cuda",
                   "docker",
@@ -451,11 +451,11 @@
                 "id": 112542515,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T08:49:11Z",
+                "last_commit": "2026-10-12T08:34:38Z",
                 "open_issues": 783,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10555,
+                "stars": 10562,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -540,7 +540,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-11T00:21:26Z",
-                "open_issues": 1824,
+                "open_issues": 1826,
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11174,
@@ -599,7 +599,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5001,
+                "stars": 5000,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -824,7 +824,7 @@
             "open_issues": 0,
             "owner": "NVIDIA",
             "repo": "nvidia-docker",
-            "stars": 17602,
+            "stars": 17601,
             "topics": [
               "cuda",
               "docker",
@@ -958,10 +958,10 @@
                 "language": "CSS",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T20:15:57Z",
-                "open_issues": 246,
+                "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45367,
+                "stars": 45371,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -986,10 +986,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-10-10T01:05:48Z",
-                "open_issues": 1081,
+                "open_issues": 1100,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27515,
+                "stars": 27517,
                 "topics": [
                   "c",
                   "cmake",
@@ -1062,7 +1062,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5001,
+                "stars": 5000,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1127,10 +1127,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T18:58:12Z",
-                "open_issues": 56,
+                "open_issues": 58,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29680,
+                "stars": 29681,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:14:53.368Z",
+    "last_updated": "2026-10-12T09:40:48.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Signal Processing(DSP) Guide",
