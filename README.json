@@ -83,7 +83,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T11:33:19Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3515,
@@ -121,7 +121,7 @@
                 "open_issues": 540,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 13015,
+                "stars": 13017,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -212,7 +212,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555,
+                "stars": 34557,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -389,7 +389,7 @@
                 "open_issues": 805,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5305,
+                "stars": 5306,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -452,10 +452,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-15T01:12:50Z",
-                "open_issues": 794,
+                "open_issues": 791,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10607,
+                "stars": 10617,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -572,7 +572,7 @@
                 "open_issues": 805,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5305,
+                "stars": 5306,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -599,7 +599,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 4999,
+                "stars": 4998,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -716,7 +716,7 @@
             "open_issues": 44,
             "owner": "clMathLibraries",
             "repo": "clFFT",
-            "stars": 650,
+            "stars": 651,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:41.020Z"
@@ -961,7 +961,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45383,
+                "stars": 45387,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -985,11 +985,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-17T04:01:39Z",
-                "open_issues": 1099,
+                "last_commit": "2026-10-17T15:40:35Z",
+                "open_issues": 1105,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27523,
+                "stars": 27526,
                 "topics": [
                   "c",
                   "cmake",
@@ -1021,7 +1021,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3402,
+                "stars": 3404,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -1062,7 +1062,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 4999,
+                "stars": 4998,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1127,10 +1127,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T07:09:59Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29698,
+                "stars": 29700,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:09:30.021Z",
+    "last_updated": "2026-10-18T07:23:47.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Signal Processing(DSP) Guide",
