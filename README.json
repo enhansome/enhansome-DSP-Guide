@@ -121,7 +121,7 @@
                 "open_issues": 549,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 13066,
+                "stars": 13067,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -212,7 +212,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34558,
+                "stars": 34557,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -360,7 +360,7 @@
                 "open_issues": 1847,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11202,
+                "stars": 11203,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -429,7 +429,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17615,
+                "stars": 17618,
                 "topics": [
                   "cuda",
                   "docker",
@@ -455,7 +455,7 @@
                 "open_issues": 844,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10706,
+                "stars": 10708,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -543,7 +543,7 @@
                 "open_issues": 1847,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11202,
+                "stars": 11203,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -824,7 +824,7 @@
             "open_issues": 0,
             "owner": "NVIDIA",
             "repo": "nvidia-docker",
-            "stars": 17615,
+            "stars": 17618,
             "topics": [
               "cuda",
               "docker",
@@ -961,7 +961,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45442,
+                "stars": 45447,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -985,11 +985,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-11-07T08:06:50Z",
-                "open_issues": 1042,
+                "last_commit": "2026-11-08T04:44:07Z",
+                "open_issues": 1056,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27580,
+                "stars": 27582,
                 "topics": [
                   "c",
                   "cmake",
@@ -1130,7 +1130,7 @@
                 "open_issues": 58,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29741,
+                "stars": 29739,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T09:10:06.281Z",
+    "last_updated": "2026-11-08T09:26:17.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Signal Processing(DSP) Guide",
