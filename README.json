@@ -82,11 +82,11 @@
                 "id": 28635894,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-27T09:31:58Z",
+                "last_commit": "2026-11-28T02:47:56Z",
                 "open_issues": 29,
                 "owner": "alicevision",
                 "repo": "AliceVision",
-                "stars": 3543,
+                "stars": 3544,
                 "topics": [
                   "3d-computer-vision",
                   "3d-reconstruction",
@@ -117,11 +117,11 @@
                 "id": 34405381,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-27T10:56:49Z",
-                "open_issues": 519,
+                "last_commit": "2026-11-28T04:51:31Z",
+                "open_issues": 517,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 13117,
+                "stars": 13121,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -237,7 +237,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10018,
+                "stars": 10016,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -452,7 +452,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-25T02:16:17Z",
-                "open_issues": 826,
+                "open_issues": 832,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
                 "stars": 10782,
@@ -961,7 +961,7 @@
                 "open_issues": 250,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45497,
+                "stars": 45502,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:41.020Z"
@@ -985,11 +985,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-11-26T19:47:19Z",
-                "open_issues": 1054,
+                "last_commit": "2026-11-27T23:47:11Z",
+                "open_issues": 1065,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27650,
+                "stars": 27654,
                 "topics": [
                   "c",
                   "cmake",
@@ -1101,7 +1101,7 @@
                 "open_issues": 113,
                 "owner": "bytedeco",
                 "repo": "javacpp",
-                "stars": 4706,
+                "stars": 4707,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -1126,11 +1126,11 @@
                 "id": 26038648,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T03:57:02Z",
-                "open_issues": 58,
+                "last_commit": "2026-11-28T09:22:00Z",
+                "open_issues": 56,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29836,
+                "stars": 29841,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T11:19:27.098Z",
+    "last_updated": "2026-11-28T10:47:41.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Signal Processing(DSP) Guide",
